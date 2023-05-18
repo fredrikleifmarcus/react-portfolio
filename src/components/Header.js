@@ -11,7 +11,7 @@ const Header = (props) => {
     <header>
         
         <h1 style={{color: 'white', backgroundColor: 'black'}}>{title}</h1>
-        <Button color='green' text='Add' onClick={onClick}></Button>
+        <Button color='green' text='Adds' onClick={onClick}></Button>
 
     </header>
   )
